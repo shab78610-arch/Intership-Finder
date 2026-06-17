@@ -7,6 +7,8 @@
 A full-stack MERN application that connects students with local internship opportunities. Students can browse, apply, and track applications, while administrators can manage internships, applications, and organizations.
 
 ## 📸 Screenshots
+### Login Page 
+<img width="1920" height="1080" alt="Screenshot (343)" src="https://github.com/user-attachments/assets/f8e3d2b4-7075-4fc7-82ec-2aeba0812d48" />
 
 ### User Dashboard
 ![User Dashboard](https://via.placeholder.com/800x400/2563eb/ffffff?text=User+Dashboard)
