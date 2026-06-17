@@ -2,7 +2,9 @@
 🎓 Internship Finder - A MERN stack platform where students can browse, apply, and track internship applications. Admins can manage internships, review applications, and provide feedback. Built with React, Node.js, Express, and MongoDB.
 # 🎯 Local Internship Finder
 
-![Project Banner](https://via.placeholder.com/1200x400/2563eb/ffffff?text=Local+Internship+Finder)
+<img width="1583" height="607" alt="image" src="https://github.com/user-attachments/assets/ed7be19f-0bf0-4a5e-9338-9bdc2c216ab8" />
+
+
 
 A full-stack MERN application that connects students with local internship opportunities. Students can browse, apply, and track applications, while administrators can manage internships, applications, and organizations.
 
@@ -10,19 +12,38 @@ A full-stack MERN application that connects students with local internship oppor
 ### Login Page 
 <img width="1920" height="1080" alt="Screenshot (343)" src="https://github.com/user-attachments/assets/f8e3d2b4-7075-4fc7-82ec-2aeba0812d48" />
 
+### Registration page (Student and Administration)
+<img width="1920" height="1080" alt="Screenshot (339)" src="https://github.com/user-attachments/assets/7c505693-aebc-4af2-9d80-84c5d2b43cc4" />
+<img width="1920" height="1080" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/4d1544b6-dad8-4fcd-ba02-3d014050fb7b" />
+<img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/29fb8003-524c-44ff-86d8-ecef367aa2d5" />
+
 ### User Dashboard
-![User Dashboard](https://via.placeholder.com/800x400/2563eb/ffffff?text=User+Dashboard)
+### Student Dashboard
+<img width="1920" height="1080" alt="Screenshot (350)" src="https://github.com/user-attachments/assets/91adce25-3a86-444f-a581-2d37113690af" />
+<img width="1920" height="1080" alt="Screenshot (348)" src="https://github.com/user-attachments/assets/2396bb7f-ec6f-48d4-93f7-837cc2affabf" />
 
 ### Admin Dashboard
-![Admin Dashboard](https://via.placeholder.com/800x400/2563eb/ffffff?text=Admin+Dashboard)
+<img width="1920" height="1080" alt="Screenshot (345)" src="https://github.com/user-attachments/assets/092a9ee2-f56e-4ed3-a965-d145df862377" />
 
-### Browse Internships
-![Browse Internships](https://via.placeholder.com/800x400/2563eb/ffffff?text=Browse+Internships)
+### Browse Internships (Admin and Student)
+### Admin
+<img width="1920" height="1080" alt="Screenshot (346)" src="https://github.com/user-attachments/assets/a7497a79-73cc-4532-9957-6f6ca7c33e98" />
+
+### Student
+<img width="1920" height="1080" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/441bdb18-7588-4e0b-a173-59f90b0a63d9" />
+
+### Admin Intership Creation page 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3deda225-c74f-491d-b252-10eb45137075" />
+<img width="1920" height="1080" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/836a62d6-6f9f-4530-b06d-e2fb79798590" />
 
 ### Application Management
-![Application Management](https://via.placeholder.com/800x400/2563eb/ffffff?text=Application+Management)
+### Student Management Page
+<img width="1920" height="1080" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/f041c4e3-85b3-4c39-9552-eee9eea434d8" />
 
-> **Note:** Replace placeholder images with actual screenshots from your application
+### Admin Management
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93466546-9b0b-4d53-b44e-1b12eb891fa1" />
+<img width="1920" height="1080" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/3a734ac9-c23e-4955-9a28-cce471670ee6" />
+<img width="1920" height="1080" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/02b2bbd0-d69e-4e9f-b864-87a48383341a" />
 
 ## ✨ Features
 
